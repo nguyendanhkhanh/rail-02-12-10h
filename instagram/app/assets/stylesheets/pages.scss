@@ -1,0 +1,8 @@
+// Place all the styles related to the Pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+@media (min-width: 992px)
+.navbar-expand-lg .navbar-nav .nav-link {
+    /* padding-right: 0.5rem; */
+    padding-left: 0.5rem;
+}
